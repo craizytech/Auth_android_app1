@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">test</string>
+    <string name="login">Login</string>
+    <string name="enter_email">enter email</string>
+    <string name="enter_password">enter password</string>
+    <string name="register">Register</string>
+    <string name="click_to_login">Click to Login</string>
+    <string name="click_to_register">Click to register</string>
+    <string name="logout">Logout</string>
+</resources>
